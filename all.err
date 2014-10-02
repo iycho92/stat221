@@ -1,0 +1,9 @@
+mkdir: cannot create directory `odyssey': File exists
+Loading module hpc/intel-mkl-11.0.0.079.
+Loading module centos6/tcl-8.5.14.
+Loading module centos6/tk-8.5.14.
+Loading module centos6/fftw-3.3_gcc-4.4.7.
+Loading module centos6/gsl-1.16_gcc-4.4.7.
+Loading module centos6/hdf5-1.8.11_gcc-4.4.7.
+Loading module centos6/netcdf-4.3.0_gcc-4.4.7.
+Loading module centos6/R-3.1.1.
